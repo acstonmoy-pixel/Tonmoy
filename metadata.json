@@ -1,0 +1,6 @@
+{
+  "name": "Voter Search System",
+  "description": "Voter Search and Upload System featuring local offline caching with Room database, dynamic filters, area analytics, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
